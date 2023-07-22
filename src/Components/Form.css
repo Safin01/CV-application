@@ -1,0 +1,15 @@
+:root{
+    display: flex;
+    justify-content: center;
+}
+
+form > div{
+    display: flex;
+    flex-direction: column;
+}
+
+.cv-application{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
